@@ -36,4 +36,3 @@ model AnalysisResult {
   @@index([username])
   @@index([hatLevel])
 }
-```
